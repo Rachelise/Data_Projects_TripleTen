@@ -1,0 +1,5 @@
+NYC Airbnb Report
+
+Click the link below to view the report using Google Sheets.
+
+https://docs.google.com/spreadsheets/d/1clRQOiJhdV9kfwxZuCFrmGfJCGjcI-esbZYvoBAeKR4/edit?usp=sharing
