@@ -4,4 +4,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Data Visualization Project| The project task was to analyze user data, find ways to increase profitability and identify profit losses in the company.
+| 1 | Data Visualization Project| The project task was to analyze user data, find ways to increase profitability and identify profit losses in the company. |
+| 1 | NYC Airbnb Project | The project task was to analyze data on airbnb listings and identify useful insights for investments. |
+| 2 | 
